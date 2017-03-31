@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: e990606db25ad524ba6a8c17e112165b
+timeCreated: 1482811272
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Roy_glock_Final_0
+    21300002: Roy_glock_Final_1
+    21300004: Roy_glock_Final_2
+    21300006: Roy_glock_Final_3
+    21300008: Roy_glock_Final_4
+    21300010: Roy_glock_Final_5
+    21300012: Roy_glock_Final_6
+    21300014: Roy_glock_Final_7
+    21300016: Roy_glock_Final_8
+    21300018: Roy_glock_Final_9
+    21300020: Roy_glock_Final_10
+    21300022: Roy_glock_Final_11
+    21300024: Roy_glock_Final_12
+    21300026: Roy_glock_Final_13
+    21300028: Roy_glock_Final_14
+    21300030: Roy_glock_Final_15
+    21300032: Roy_glock_Final_16
+    21300034: Roy_glock_Final_17
+    21300036: Roy_glock_Final_18
+    21300038: Roy_glock_Final_19
+    21300040: Roy_glock_Final_20
+    21300042: Roy_glock_Final_21
+    21300044: Roy_glock_Final_22
+    21300046: Roy_glock_Final_23
+    21300048: Roy_glock_Final_24
+    21300050: Roy_glock_Final_25
+    21300052: Roy_glock_Final_26
+    21300054: Roy_glock_Final_27
+    21300056: Roy_glock_Final_28
+    21300058: Roy_glock_Final_29
+    21300060: Roy_glock_Final_30
+    21300062: Roy_glock_Final_31
+    21300064: Roy_glock_Final_32
+    21300066: Roy_glock_Final_33
+    21300068: Roy_glock_Final_34
+    21300070: Roy_glock_Final_35
+    21300072: Roy_glock_Final_36
+    21300074: Roy_glock_Final_37
+    21300076: Roy_glock_Final_38
+    21300078: Roy_glock_Final_39
+    21300080: Roy_glock_Final_40
+    21300082: Roy_glock_Final_41
+    21300084: Roy_glock_Final_42
+    21300086: Roy_glock_Final_43
+    21300088: Roy_glock_Final_44
+    21300090: Roy_glock_Final_45
+    21300092: Roy_glock_Final_46
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roy_glock_Final_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3052
+        width: 188
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3062
+        width: 191
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3069
+        width: 194
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_3
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 3069
+        width: 189
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2567
+        width: 189
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2579
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2588
+        width: 192
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_7
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2591
+        width: 203
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2163
+        width: 236
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2164
+        width: 258
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2173
+        width: 258
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_11
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2178
+        width: 259
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_12
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2194
+        width: 264
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_13
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 2181
+        width: 221
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_14
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2178
+        width: 221
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_15
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2172
+        width: 226
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1811
+        width: 257
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1811
+        width: 257
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_18
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1818
+        width: 258
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1355
+        width: 295
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1353
+        width: 316
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1365
+        width: 320
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_22
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1370
+        width: 318
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_23
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1386
+        width: 300
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_24
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1374
+        width: 258
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_26
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1370
+        width: 289
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_27
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1363
+        width: 290
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1002
+        width: 320
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_33
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1003
+        width: 318
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_34
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1010
+        width: 296
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 501
+        width: 283
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 500
+        width: 298
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 516
+        width: 286
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 117
+        width: 281
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 118
+        width: 279
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_44
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 117
+        width: 333
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_45
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 153
+        width: 359
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_25
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 534
+        width: 264
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_28
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 543
+        width: 238
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Roy_glock_Final_29
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 534
+        width: 226
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

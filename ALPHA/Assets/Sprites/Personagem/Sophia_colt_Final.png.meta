@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: 99401f45db460a24d991a1a93d23d451
+timeCreated: 1489044509
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sophia_colt_Final_0
+    21300002: Sophia_colt_Final_1
+    21300004: Sophia_colt_Final_2
+    21300006: Sophia_colt_Final_3
+    21300008: Sophia_colt_Final_4
+    21300010: Sophia_colt_Final_5
+    21300012: Sophia_colt_Final_6
+    21300014: Sophia_colt_Final_7
+    21300016: Sophia_colt_Final_8
+    21300018: Sophia_colt_Final_9
+    21300020: Sophia_colt_Final_10
+    21300022: Sophia_colt_Final_11
+    21300024: Sophia_colt_Final_12
+    21300026: Sophia_colt_Final_13
+    21300028: Sophia_colt_Final_14
+    21300030: Sophia_colt_Final_15
+    21300032: Sophia_colt_Final_17
+    21300034: Sophia_colt_Final_18
+    21300036: Sophia_colt_Final_19
+    21300038: Sophia_colt_Final_20
+    21300040: Sophia_colt_Final_21
+    21300042: Sophia_colt_Final_22
+    21300044: Sophia_colt_Final_25
+    21300046: Sophia_colt_Final_29
+    21300048: Sophia_colt_Final_30
+    21300050: Sophia_colt_Final_31
+    21300052: Sophia_colt_Final_38
+    21300054: Sophia_colt_Final_39
+    21300056: Sophia_colt_Final_42
+    21300058: Sophia_colt_Final_46
+    21300060: Sophia_colt_Final_50
+    21300062: Sophia_colt_Final_55
+    21300064: Sophia_colt_Final_59
+    21300066: Sophia_colt_Final_61
+    21300068: Sophia_colt_Final_62
+    21300070: Sophia_colt_Final_66
+    21300072: Sophia_colt_Final_69
+    21300074: Sophia_colt_Final_70
+    21300076: Sophia_colt_Final_71
+    21300078: Sophia_colt_Final_73
+    21300080: Sophia_colt_Final_74
+    21300082: Sophia_colt_Final_75
+    21300084: Sophia_colt_Final_76
+    21300086: Sophia_colt_Final_77
+    21300088: Sophia_colt_Final_78
+    21300090: Sophia_colt_Final_79
+    21300092: Sophia_colt_Final_80
+    21300094: Sophia_colt_Final_82
+    21300096: Sophia_colt_Final_83
+    21300098: Sophia_colt_Final_84
+    21300100: Sophia_colt_Final_85
+    21300102: Sophia_colt_Final_86
+    21300104: Sophia_colt_Final_87
+    21300106: Sophia_colt_Final_91
+    21300108: Sophia_colt_Final_94
+    21300110: Sophia_colt_Final_95
+    21300112: Sophia_colt_Final_96
+    21300114: Sophia_colt_Final_107
+    21300116: Sophia_colt_Final_111
+    21300118: Sophia_colt_Final_114
+    21300120: Sophia_colt_Final_115
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sophia_colt_Final_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4355
+        width: 205
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 4363
+        width: 205
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_2
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 4363
+        width: 205
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_3
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 4363
+        width: 205
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3906
+        width: 200
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3906
+        width: 198
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3906
+        width: 200
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_7
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3906
+        width: 231
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3472
+        width: 240
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3471
+        width: 238
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_10
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3463
+        width: 248
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_11
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3456
+        width: 246
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_12
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 3472
+        width: 247
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_13
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 3467
+        width: 236
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_14
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 3467
+        width: 236
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_15
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 3463
+        width: 233
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3080
+        width: 234
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3080
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3066
+        width: 247
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2647
+        width: 345
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2650
+        width: 345
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_22
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2647
+        width: 351
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_25
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2655
+        width: 350
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_29
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2649
+        width: 349
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_30
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2642
+        width: 337
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_31
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2650
+        width: 343
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2274
+        width: 339
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_39
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2269
+        width: 337
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_42
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2279
+        width: 343
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_46
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 2265
+        width: 350
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_50
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2238
+        width: 334
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_55
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2243
+        width: 340
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_59
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2233
+        width: 343
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1801
+        width: 343
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_62
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1806
+        width: 331
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_66
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1812
+        width: 339
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_69
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1816
+        width: 190
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_70
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1816
+        width: 189
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_71
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1816
+        width: 190
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1340
+        width: 234
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_74
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1343
+        width: 236
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_75
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1343
+        width: 236
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_76
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1349
+        width: 248
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_77
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1332
+        width: 250
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_78
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1340
+        width: 249
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_79
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1349
+        width: 238
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_80
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1349
+        width: 240
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_82
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 943
+        width: 249
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_83
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 957
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_84
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 957
+        width: 234
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 526
+        width: 342
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_86
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 518
+        width: 338
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 526
+        width: 348
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_91
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 534
+        width: 350
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_94
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 524
+        width: 351
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_95
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 528
+        width: 345
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_96
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 524
+        width: 345
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_107
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 142
+        width: 355
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_111
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 156
+        width: 343
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_114
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 146
+        width: 337
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sophia_colt_Final_115
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 151
+        width: 339
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

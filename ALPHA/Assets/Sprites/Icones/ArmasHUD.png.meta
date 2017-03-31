@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 281c86cdc69e85d4ca9943fc070c2c1a
+timeCreated: 1476135420
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ArmasHUD_0
+    21300002: ArmasHUD_1
+    21300004: ArmasHUD_2
+    21300006: ArmasHUD_3
+    21300008: ArmasHUD_4
+    21300010: ArmasHUD_5
+    21300012: ArmasHUD_6
+    21300014: ArmasHUD_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ArmasHUD_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 166
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.721756, y: 59.686188}
+        - {x: -50.278244, y: 34.686188}
+        - {x: -55.278244, y: -10.313812}
+        - {x: -55.278244, y: -58.313812}
+        - {x: 33.721756, y: -58.313812}
+        - {x: 55.721756, y: -13.313812}
+        - {x: 55.721756, y: 56.686188}
+        - {x: 45.721756, y: 59.686188}
+    - name: ArmasHUD_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 476
+        width: 179
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.058563, y: 66.16943}
+        - {x: -53.941437, y: 28.169434}
+        - {x: -59.941437, y: 13.169434}
+        - {x: -59.941437, y: -64.83057}
+        - {x: 12.058563, y: -64.83057}
+        - {x: 60.058563, y: -10.830566}
+        - {x: 60.058563, y: 54.169434}
+        - {x: 48.058563, y: 66.16943}
+    - name: ArmasHUD_2
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 473
+        width: 209
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.82428, y: 29.673615}
+        - {x: -69.82428, y: -73.326385}
+        - {x: 8.17572, y: -73.326385}
+        - {x: 70.17572, y: -6.3263855}
+        - {x: 70.17572, y: 74.673615}
+        - {x: -9.82428, y: 74.673615}
+        - {x: -63.82428, y: 68.673615}
+    - name: ArmasHUD_3
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 464
+        width: 187
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.96228, y: 72.18619}
+        - {x: -56.03772, y: 29.186188}
+        - {x: -62.03772, y: -1.8138123}
+        - {x: -62.03772, y: -70.81381}
+        - {x: 10.96228, y: -70.81381}
+        - {x: 59.96228, y: -62.813812}
+        - {x: 63.96228, y: -38.813812}
+        - {x: 63.96228, y: 72.18619}
+    - name: ArmasHUD_4
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 461
+        width: 295
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.19885, y: -30.309631}
+        - {x: -98.19885, y: -79.30963}
+        - {x: 5.8011475, y: -79.30963}
+        - {x: 98.80115, y: -6.3096313}
+        - {x: 98.80115, y: 80.69037}
+        - {x: 40.801147, y: 80.69037}
+        - {x: -51.198853, y: 63.69037}
+    - name: ArmasHUD_5
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 468
+        width: 304
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.905884, y: 83.34726}
+        - {x: -100.90588, y: 27.34726}
+        - {x: -100.90588, y: -82.65274}
+        - {x: -35.905884, y: -82.65274}
+        - {x: 102.09412, y: 2.3472595}
+        - {x: 102.09412, y: 71.34726}
+        - {x: 92.09412, y: 83.34726}
+    - name: ArmasHUD_6
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 461
+        width: 306
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.968506, y: 76.69037}
+        - {x: 93.968506, y: 80.69037}
+        - {x: 33.968506, y: 80.69037}
+        - {x: -84.031494, y: 35.69037}
+        - {x: -102.031494, y: 15.690369}
+        - {x: -102.031494, y: -79.30963}
+        - {x: -38.031494, y: -79.30963}
+        - {x: -3.0314941, y: -64.30963}
+        - {x: 73.968506, y: -41.30963}
+        - {x: 102.968506, y: 42.69037}
+    - name: ArmasHUD_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 301
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.7092, y: 70.813805}
+        - {x: 82.7092, y: 65.813805}
+        - {x: 65.7092, y: 75.813805}
+        - {x: 59.709198, y: 78.813805}
+        - {x: -3.290802, y: 78.813805}
+        - {x: -83.2908, y: 29.813805}
+        - {x: -100.2908, y: 9.813805}
+        - {x: -100.2908, y: -78.186195}
+        - {x: -1.290802, y: -78.186195}
+        - {x: 55.709198, y: -68.186195}
+        - {x: 100.7092, y: 35.813805}
+        - {x: 100.7092, y: 75.813805}
+        - {x: 90.7092, y: 73.813805}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

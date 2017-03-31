@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e6705aa12fe835b4a881de38d86cb14e
+timeCreated: 1472193578
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RigidBody: {fileID: 5093284, guid: 29f07123d2a84b7449cbefa30ce5bb7d, type: 2}
+  - col: {instanceID: 0}
+  - Transf: {instanceID: 0}
+  - Anime: {instanceID: 0}
+  - Mira: {instanceID: 0}
+  - Projetil: {instanceID: 0}
+  - Barravida: {instanceID: 0}
+  - TextHIT: {instanceID: 0}
+  - Blood: {instanceID: 0}
+  - Potion: {instanceID: 0}
+  - VidaDrop: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

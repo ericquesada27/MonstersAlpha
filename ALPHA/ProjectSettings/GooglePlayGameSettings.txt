@@ -1,0 +1,10 @@
+lastUpgrade=00935
+proj.pluginVersion=0.9.35
+proj.AppId=329152100864
+and.BundleId=com.hsa.monstersforall
+proj.classDir=Assets
+proj.ConstantsClassName=Conquistas
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e329152100864%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.hsa.monstersforall%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_jeitinho_brasileiro%22%3eCgkIgPT5l8oJEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_presente_de_grego%22%3eCgkIgPT5l8oJEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_abaixo_de_zero%22%3eCgkIgPT5l8oJEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_execuo_primria%22%3eCgkIgPT5l8oJEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_execuo_secundria%22%3eCgkIgPT5l8oJEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_execuo_terciria%22%3eCgkIgPT5l8oJEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_execuo_quaternria%22%3eCgkIgPT5l8oJEAIQEA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_cofres_pblicos%22%3eCgkIgPT5l8oJEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_cofres_privados%22%3eCgkIgPT5l8oJEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_soldado_iniciante%22%3eCgkIgPT5l8oJEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_pequena_mquina_de_combate%22%3eCgkIgPT5l8oJEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_velho_tanque%22%3eCgkIgPT5l8oJEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_ado_e_eva%22%3eCgkIgPT5l8oJEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_sobrevivente_catico%22%3eCgkIgPT5l8oJEAIQDQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_fuso_horrio%22%3eCgkIgPT5l8oJEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_ranking_geral%22%3eCgkIgPT5l8oJEAIQDw%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d728437ea100d343a901a75851408cd
+timeCreated: 1472815269
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Curupira: {fileID: 194358, guid: 29f07123d2a84b7449cbefa30ce5bb7d, type: 2}
+  - Origem1: {instanceID: 0}
+  - Origem2: {instanceID: 0}
+  - Origem3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

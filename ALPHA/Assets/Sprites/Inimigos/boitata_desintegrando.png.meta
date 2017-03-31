@@ -1,0 +1,1101 @@
+fileFormatVersion: 2
+guid: c45ee3691baaf4840a995df58790028e
+timeCreated: 1480999457
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boitata_desintegrando_0
+    21300002: boitata_desintegrando_1
+    21300004: boitata_desintegrando_2
+    21300006: boitata_desintegrando_3
+    21300008: boitata_desintegrando_4
+    21300010: boitata_desintegrando_5
+    21300012: boitata_desintegrando_6
+    21300014: boitata_desintegrando_7
+    21300016: boitata_desintegrando_8
+    21300018: boitata_desintegrando_9
+    21300020: boitata_desintegrando_10
+    21300022: boitata_desintegrando_11
+    21300024: boitata_desintegrando_12
+    21300026: boitata_desintegrando_13
+    21300028: boitata_desintegrando_15
+    21300030: boitata_desintegrando_16
+    21300032: boitata_desintegrando_18
+    21300034: boitata_desintegrando_20
+    21300036: boitata_desintegrando_22
+    21300038: boitata_desintegrando_23
+    21300040: boitata_desintegrando_25
+    21300042: boitata_desintegrando_31
+    21300044: boitata_desintegrando_32
+    21300046: boitata_desintegrando_33
+    21300048: boitata_desintegrando_36
+    21300050: boitata_desintegrando_38
+    21300052: boitata_desintegrando_54
+    21300054: boitata_desintegrando_55
+    21300056: boitata_desintegrando_57
+    21300058: boitata_desintegrando_58
+    21300060: boitata_desintegrando_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boitata_desintegrando_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1803
+        width: 265
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 121}
+        - {x: -1.5, y: 117}
+        - {x: -8.5, y: 81}
+        - {x: -1.5, y: 42}
+        - {x: 1.5, y: 39}
+        - {x: -0.5, y: 39}
+        - {x: -12.5, y: 23}
+        - {x: -12.5, y: -2}
+        - {x: -41.5, y: 24}
+        - {x: -132.5, y: 25}
+        - {x: -132.5, y: -114}
+        - {x: -105.5, y: -121}
+        - {x: 98.5, y: -121}
+        - {x: 131.5, y: -120}
+        - {x: 132.5, y: -114}
+        - {x: 132.5, y: 103}
+        - {x: 111.5, y: 121}
+    - name: boitata_desintegrando_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1803
+        width: 265
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.5, y: 13}
+        - {x: 132.5, y: 116}
+        - {x: 101.5, y: 121}
+        - {x: 6.5, y: 121}
+        - {x: 2.5, y: 117}
+        - {x: -4.5, y: 85}
+        - {x: -4.5, y: 83}
+        - {x: -1.5, y: 80}
+        - {x: -4.5, y: 45}
+        - {x: -101.5, y: 13}
+        - {x: -130.5, y: -52}
+        - {x: -132.5, y: -66}
+        - {x: -132.5, y: -113}
+        - {x: -111.5, y: -121}
+        - {x: 132.5, y: -121}
+        - {x: 132.5, y: -19}
+        - {x: 129.5, y: -11}
+    - name: boitata_desintegrando_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1803
+        width: 265
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 121}
+        - {x: -2.5, y: 117}
+        - {x: -5.5, y: 82}
+        - {x: -2.5, y: 40}
+        - {x: 1.5, y: 39}
+        - {x: 5.5, y: 39}
+        - {x: 6.5, y: 38}
+        - {x: 3.5, y: 39}
+        - {x: 0.5, y: 39}
+        - {x: -2.5, y: 36}
+        - {x: -22.5, y: 24}
+        - {x: -43.5, y: 30}
+        - {x: -119.5, y: 2}
+        - {x: -123.5, y: -37}
+        - {x: -122.5, y: -62}
+        - {x: -120.5, y: -70}
+        - {x: -112.5, y: -83}
+        - {x: -100.5, y: -94}
+        - {x: -130.5, y: -102}
+        - {x: -132.5, y: -103}
+        - {x: -132.5, y: -112}
+        - {x: -118.5, y: -121}
+        - {x: 132.5, y: -121}
+        - {x: 132.5, y: 111}
+        - {x: 104.5, y: 121}
+    - name: boitata_desintegrando_3
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1803
+        width: 264
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 121}
+        - {x: -22, y: 91}
+        - {x: -2, y: 40}
+        - {x: 1, y: 39}
+        - {x: 5, y: 39}
+        - {x: 6, y: 38}
+        - {x: 3, y: 39}
+        - {x: 0, y: 39}
+        - {x: -6, y: 37}
+        - {x: -11, y: 16}
+        - {x: -71, y: 32}
+        - {x: -132, y: -23}
+        - {x: -132, y: -114}
+        - {x: -105, y: -121}
+        - {x: 121, y: -121}
+        - {x: 132, y: -114}
+        - {x: 132, y: 104}
+        - {x: 105, y: 121}
+    - name: boitata_desintegrando_4
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1807
+        width: 265
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 120.5}
+        - {x: -9.5, y: 90.5}
+        - {x: -3.5, y: 39.5}
+        - {x: 2.5, y: 38.5}
+        - {x: 6.5, y: 38.5}
+        - {x: 0.5, y: 38.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -44.5, y: 22.5}
+        - {x: -101.5, y: 7.5}
+        - {x: -129.5, y: -41.5}
+        - {x: -132.5, y: -66.5}
+        - {x: -132.5, y: -112.5}
+        - {x: -111.5, y: -120.5}
+        - {x: 132.5, y: -120.5}
+        - {x: 132.5, y: 111.5}
+        - {x: 123.5, y: 120.5}
+    - name: boitata_desintegrando_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1458
+        width: 265
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.5, y: 121}
+        - {x: 33.5, y: 121}
+        - {x: -0.5, y: 117}
+        - {x: -8.5, y: 81}
+        - {x: -1.5, y: 42}
+        - {x: 1.5, y: 39}
+        - {x: -0.5, y: 39}
+        - {x: -12.5, y: 23}
+        - {x: -64.5, y: 35}
+        - {x: -132.5, y: -22}
+        - {x: -132.5, y: -119}
+        - {x: -118.5, y: -121}
+        - {x: 112.5, y: -121}
+        - {x: 132.5, y: -115}
+        - {x: 132.5, y: 102}
+    - name: boitata_desintegrando_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1458
+        width: 265
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.5, y: -19}
+        - {x: 129.5, y: -11}
+        - {x: 132.5, y: 13}
+        - {x: 132.5, y: 105}
+        - {x: 131.5, y: 107}
+        - {x: 94.5, y: 121}
+        - {x: -0.5, y: 121}
+        - {x: -3.5, y: 120}
+        - {x: -20.5, y: -8}
+        - {x: -62.5, y: -14}
+        - {x: -121.5, y: -9}
+        - {x: -132.5, y: -30}
+        - {x: -132.5, y: -121}
+        - {x: -28.5, y: -121}
+        - {x: -23.5, y: -119}
+        - {x: 122.5, y: -121}
+        - {x: 132.5, y: -121}
+      - - {x: -76.5, y: 1}
+        - {x: -78.5, y: -1}
+        - {x: -78.5, y: -4}
+        - {x: -76.5, y: -6}
+        - {x: -72.5, y: -6}
+        - {x: -70.5, y: -4}
+        - {x: -70.5, y: -3}
+        - {x: -72.5, y: 0}
+    - name: boitata_desintegrando_7
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1458
+        width: 266
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 121}
+        - {x: -12, y: 89}
+        - {x: -2, y: 40}
+        - {x: 2, y: 39}
+        - {x: 6, y: 39}
+        - {x: 7, y: 38}
+        - {x: 4, y: 39}
+        - {x: 1, y: 39}
+        - {x: -22, y: 25}
+        - {x: -114, y: -7}
+        - {x: -123, y: -37}
+        - {x: -121, y: -63}
+        - {x: -119, y: -69}
+        - {x: -114, y: -80}
+        - {x: -101, y: -94}
+        - {x: -130, y: -102}
+        - {x: -133, y: -104}
+        - {x: -133, y: -121}
+        - {x: 133, y: -121}
+        - {x: 133, y: 119}
+        - {x: 124, y: 121}
+      - - {x: -133, y: -53}
+        - {x: -130, y: -53}
+        - {x: -128, y: -51}
+        - {x: -129, y: -48}
+        - {x: -133, y: -47}
+      - - {x: -64, y: 15}
+        - {x: -66, y: 9}
+        - {x: -66, y: 4}
+        - {x: -60, y: -1}
+        - {x: -57, y: -1}
+        - {x: -47, y: 10}
+        - {x: -47, y: 15}
+    - name: boitata_desintegrando_8
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1458
+        width: 264
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 121}
+        - {x: -22, y: 91}
+        - {x: -2, y: 40}
+        - {x: 1, y: 39}
+        - {x: 5, y: 39}
+        - {x: 6, y: 38}
+        - {x: 3, y: 39}
+        - {x: 0, y: 39}
+        - {x: -73, y: 80}
+        - {x: -132, y: -26}
+        - {x: -132, y: -121}
+        - {x: 117, y: -121}
+        - {x: 132, y: -120}
+        - {x: 132, y: 104}
+        - {x: 105, y: 121}
+      - - {x: -97, y: 2}
+        - {x: -106, y: -8}
+        - {x: -106, y: -12}
+        - {x: -92, y: -17}
+        - {x: -82, y: -17}
+        - {x: -78, y: -15}
+        - {x: -78, y: -6}
+        - {x: -92, y: 2}
+      - - {x: -69, y: -7}
+        - {x: -67, y: -9}
+        - {x: -62, y: -9}
+        - {x: -58, y: -4}
+        - {x: -58, y: 3}
+        - {x: -63, y: 3}
+        - {x: -69, y: -3}
+      - - {x: -24, y: -1}
+        - {x: -23, y: -4}
+        - {x: -20, y: -4}
+        - {x: -18, y: -2}
+        - {x: -19, y: 1}
+        - {x: -22, y: 1}
+      - - {x: -91, y: 14}
+        - {x: -93, y: 12}
+        - {x: -93, y: 10}
+        - {x: -91, y: 8}
+        - {x: -88, y: 8}
+        - {x: -86, y: 10}
+        - {x: -86, y: 12}
+        - {x: -88, y: 14}
+      - - {x: -29, y: 42}
+        - {x: -30, y: 39}
+        - {x: -30, y: 37}
+        - {x: -29, y: 35}
+        - {x: -23, y: 35}
+        - {x: -23, y: 41}
+        - {x: -25, y: 42}
+    - name: boitata_desintegrando_9
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1462
+        width: 265
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 121}
+        - {x: -11.5, y: 81}
+        - {x: -3.5, y: 39}
+        - {x: 2.5, y: 38}
+        - {x: 6.5, y: 38}
+        - {x: 0.5, y: 38}
+        - {x: -2.5, y: 35}
+        - {x: -16.5, y: 18}
+        - {x: -132.5, y: -23}
+        - {x: -132.5, y: -121}
+        - {x: 132.5, y: -121}
+        - {x: 132.5, y: 112}
+        - {x: 110.5, y: 121}
+      - - {x: -96.5, y: -9}
+        - {x: -110.5, y: -14}
+        - {x: -111.5, y: -16}
+        - {x: -111.5, y: -25}
+        - {x: -102.5, y: -31}
+        - {x: -57.5, y: -31}
+        - {x: -57.5, y: -22}
+        - {x: -76.5, y: -9}
+      - - {x: -55.5, y: 15}
+        - {x: -55.5, y: 8}
+        - {x: -52.5, y: 7}
+        - {x: -50.5, y: 7}
+        - {x: -47.5, y: 11}
+        - {x: -47.5, y: 15}
+    - name: boitata_desintegrando_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1104
+        width: 265
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 120.5}
+        - {x: -13.5, y: 88.5}
+        - {x: -7.5, y: 30.5}
+        - {x: 1.5, y: 18.5}
+        - {x: 3.5, y: 16.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -125.5, y: -43.5}
+        - {x: -132.5, y: -63.5}
+        - {x: -132.5, y: -120.5}
+        - {x: 119.5, y: -120.5}
+        - {x: 132.5, y: -118.5}
+        - {x: 132.5, y: 115.5}
+        - {x: 123.5, y: 120.5}
+      - - {x: -121.5, y: -37.5}
+        - {x: -122.5, y: -40.5}
+        - {x: -118.5, y: -45.5}
+        - {x: -115.5, y: -45.5}
+        - {x: -113.5, y: -43.5}
+        - {x: -113.5, y: -42.5}
+        - {x: -118.5, y: -37.5}
+    - name: boitata_desintegrando_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1104
+        width: 265
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 120.5}
+        - {x: -11.5, y: 88.5}
+        - {x: -59.5, y: -27.5}
+        - {x: -116.5, y: -74.5}
+        - {x: -114.5, y: -82.5}
+        - {x: -103.5, y: -92.5}
+        - {x: -132.5, y: -102.5}
+        - {x: -132.5, y: -113.5}
+        - {x: -110.5, y: -120.5}
+        - {x: 127.5, y: -120.5}
+        - {x: 132.5, y: -111.5}
+        - {x: 132.5, y: 101.5}
+        - {x: 117.5, y: 120.5}
+      - - {x: -78.5, y: -42.5}
+        - {x: -83.5, y: -47.5}
+        - {x: -82.5, y: -50.5}
+        - {x: -78.5, y: -50.5}
+        - {x: -73.5, y: -46.5}
+        - {x: -73.5, y: -44.5}
+        - {x: -75.5, y: -42.5}
+    - name: boitata_desintegrando_12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1104
+        width: 264
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 120.5}
+        - {x: -29, y: 90.5}
+        - {x: -1, y: 41.5}
+        - {x: 2, y: 38.5}
+        - {x: 6, y: 38.5}
+        - {x: 0, y: 38.5}
+        - {x: -8, y: 39.5}
+        - {x: -19, y: -7.5}
+        - {x: -29, y: -30.5}
+        - {x: -29, y: -33.5}
+        - {x: -27, y: -35.5}
+        - {x: -30, y: -34.5}
+        - {x: -30, y: -30.5}
+        - {x: -38, y: -22.5}
+        - {x: -132, y: -91.5}
+        - {x: -132, y: -120.5}
+        - {x: 127, y: -120.5}
+        - {x: 132, y: -115.5}
+        - {x: 132, y: 108.5}
+        - {x: 109, y: 120.5}
+      - - {x: -49, y: -27.5}
+        - {x: -51, y: -31.5}
+        - {x: -51, y: -36.5}
+        - {x: -50, y: -37.5}
+        - {x: -44, y: -38.5}
+        - {x: -39, y: -38.5}
+        - {x: -39, y: -31.5}
+        - {x: -41, y: -27.5}
+      - - {x: -100, y: -8.5}
+        - {x: -97, y: -9.5}
+        - {x: -82, y: -9.5}
+        - {x: -74, y: 2.5}
+        - {x: -74, y: 13.5}
+        - {x: -86, y: 13.5}
+        - {x: -100, y: 7.5}
+    - name: boitata_desintegrando_13
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1104
+        width: 252
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 120.5}
+        - {x: -9, y: 39.5}
+        - {x: -4, y: 38.5}
+        - {x: 0, y: 38.5}
+        - {x: -6, y: 38.5}
+        - {x: -20, y: 39.5}
+        - {x: -25, y: 22.5}
+        - {x: -19, y: -3.5}
+        - {x: -11, y: -8.5}
+        - {x: -14, y: -14.5}
+        - {x: -14, y: -16.5}
+        - {x: -14, y: -12.5}
+        - {x: -16, y: -7.5}
+        - {x: -50, y: -7.5}
+        - {x: -53, y: -16.5}
+        - {x: -50, y: -17.5}
+        - {x: -47, y: -17.5}
+        - {x: -44, y: -15.5}
+        - {x: -41, y: -18.5}
+        - {x: -39, y: -18.5}
+        - {x: -40, y: -18.5}
+        - {x: -42, y: -19.5}
+        - {x: -44, y: -17.5}
+        - {x: -47, y: -17.5}
+        - {x: -61, y: -22.5}
+        - {x: -97, y: -50.5}
+        - {x: -126, y: -105.5}
+        - {x: -126, y: -120.5}
+        - {x: 126, y: -120.5}
+        - {x: 126, y: 104.5}
+        - {x: 111, y: 120.5}
+      - - {x: -112, y: -41.5}
+        - {x: -122, y: -41.5}
+        - {x: -126, y: -42.5}
+        - {x: -126, y: -53.5}
+        - {x: -119, y: -53.5}
+        - {x: -109, y: -47.5}
+        - {x: -109, y: -43.5}
+        - {x: -110, y: -42.5}
+      - - {x: -77, y: -23.5}
+        - {x: -79, y: -24.5}
+        - {x: -79, y: -28.5}
+        - {x: -78, y: -30.5}
+        - {x: -75, y: -30.5}
+        - {x: -71, y: -27.5}
+        - {x: -71, y: -26.5}
+        - {x: -74, y: -23.5}
+      - - {x: -97, y: -1.5}
+        - {x: -94, y: -0.5}
+        - {x: -94, y: 2.5}
+        - {x: -97, y: 3.5}
+        - {x: -99, y: 1.5}
+      - - {x: -57, y: 57.5}
+        - {x: -55, y: 55.5}
+        - {x: -52, y: 56.5}
+        - {x: -52, y: 59.5}
+        - {x: -54, y: 61.5}
+        - {x: -57, y: 60.5}
+    - name: boitata_desintegrando_15
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1107
+        width: 227
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113.5, y: 28}
+        - {x: 113.5, y: 100}
+        - {x: 84.5, y: 121}
+        - {x: -5.5, y: 121}
+        - {x: -19.5, y: 117}
+        - {x: -27.5, y: 77}
+        - {x: -35.5, y: -5}
+        - {x: -108.5, y: -76}
+        - {x: -113.5, y: -95}
+        - {x: -113.5, y: -114}
+        - {x: -108.5, y: -121}
+        - {x: 113.5, y: -121}
+        - {x: 113.5, y: 11}
+        - {x: 112.5, y: 21}
+      - - {x: -104.5, y: 6}
+        - {x: -108.5, y: 5}
+        - {x: -113.5, y: 1}
+        - {x: -113.5, y: -8}
+        - {x: -112.5, y: -8}
+        - {x: -105.5, y: -4}
+        - {x: -102.5, y: 2}
+        - {x: -102.5, y: 5}
+    - name: boitata_desintegrando_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 745
+        width: 218
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 120.5}
+        - {x: -26, y: 120.5}
+        - {x: -42, y: 78.5}
+        - {x: -44, y: 16.5}
+        - {x: -52, y: -15.5}
+        - {x: -98, y: -52.5}
+        - {x: -101, y: -63.5}
+        - {x: -101, y: -102.5}
+        - {x: -90, y: -120.5}
+        - {x: 107, y: -120.5}
+        - {x: 109, y: -111.5}
+        - {x: 109, y: 83.5}
+        - {x: 107, y: 105.5}
+      - - {x: -107, y: 8.5}
+        - {x: -109, y: 6.5}
+        - {x: -109, y: 0.5}
+        - {x: -106, y: 0.5}
+        - {x: -101, y: 1.5}
+        - {x: -100, y: 2.5}
+        - {x: -100, y: 8.5}
+    - name: boitata_desintegrando_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 746
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 120}
+        - {x: -42, y: 78}
+        - {x: -38, y: 43}
+        - {x: -34, y: 40}
+        - {x: -37, y: 41}
+        - {x: -73, y: 19}
+        - {x: -100, y: -45}
+        - {x: -100, y: -115}
+        - {x: -92, y: -120}
+        - {x: 93, y: -120}
+        - {x: 100, y: -115}
+        - {x: 100, y: 103}
+        - {x: 79, y: 120}
+      - - {x: -71, y: 7}
+        - {x: -65, y: 4}
+        - {x: -60, y: 4}
+        - {x: -59, y: 5}
+        - {x: -59, y: 13}
+        - {x: -61, y: 16}
+        - {x: -70, y: 16}
+        - {x: -71, y: 11}
+      - - {x: -68, y: 37}
+        - {x: -70, y: 35}
+        - {x: -70, y: 33}
+        - {x: -68, y: 31}
+        - {x: -65, y: 31}
+        - {x: -63, y: 33}
+        - {x: -63, y: 35}
+        - {x: -65, y: 37}
+    - name: boitata_desintegrando_20
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 747
+        width: 186
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 119.5}
+        - {x: -16, y: 118.5}
+        - {x: -16, y: 110.5}
+        - {x: -29, y: 108.5}
+        - {x: -48, y: 104.5}
+        - {x: -53, y: 39.5}
+        - {x: -93, y: -37.5}
+        - {x: -93, y: -119.5}
+        - {x: 93, y: -119.5}
+        - {x: 93, y: 99.5}
+        - {x: 70, y: 119.5}
+    - name: boitata_desintegrando_22
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 748
+        width: 178
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 119}
+        - {x: -58, y: 90}
+        - {x: -46, y: 42}
+        - {x: -44, y: 36}
+        - {x: -38, y: 36}
+        - {x: -44, y: 36}
+        - {x: -53, y: 39}
+        - {x: -89, y: -23}
+        - {x: -89, y: -92}
+        - {x: -82, y: -119}
+        - {x: 89, y: -119}
+        - {x: 89, y: 119}
+    - name: boitata_desintegrando_23
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 751
+        width: 163
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 119}
+        - {x: -47.5, y: 119}
+        - {x: -50.5, y: 118}
+        - {x: -81.5, y: -9}
+        - {x: -81.5, y: -73}
+        - {x: -48.5, y: -119}
+        - {x: 70.5, y: -119}
+        - {x: 81.5, y: -111}
+        - {x: 81.5, y: 97}
+        - {x: 46.5, y: 118}
+    - name: boitata_desintegrando_25
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 827
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: boitata_desintegrando_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 376
+        width: 155
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 119}
+        - {x: -73.5, y: 86}
+        - {x: -56.5, y: 40}
+        - {x: -53.5, y: 37}
+        - {x: -49.5, y: 37}
+        - {x: -55.5, y: 37}
+        - {x: -77.5, y: 17}
+        - {x: -77.5, y: -51}
+        - {x: -40.5, y: -119}
+        - {x: 69.5, y: -119}
+        - {x: 77.5, y: -113}
+        - {x: 77.5, y: 98}
+        - {x: 45.5, y: 119}
+    - name: boitata_desintegrando_32
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 377
+        width: 144
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 118.5}
+        - {x: -58, y: 114.5}
+        - {x: -72, y: 90.5}
+        - {x: -72, y: -60.5}
+        - {x: -65, y: -76.5}
+        - {x: 15, y: -118.5}
+        - {x: 72, y: -118.5}
+        - {x: 72, y: 97.5}
+        - {x: 41, y: 118.5}
+    - name: boitata_desintegrando_33
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 377
+        width: 138
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 118.5}
+        - {x: -61, y: 111.5}
+        - {x: -59, y: 104.5}
+        - {x: -69, y: 93.5}
+        - {x: -69, y: 41.5}
+        - {x: -68, y: 36.5}
+        - {x: -58, y: 36.5}
+        - {x: -57, y: 35.5}
+        - {x: -60, y: 36.5}
+        - {x: -63, y: 36.5}
+        - {x: -66, y: 33.5}
+        - {x: -69, y: 27.5}
+        - {x: -69, y: -29.5}
+        - {x: 1, y: -118.5}
+        - {x: 69, y: -118.5}
+        - {x: 69, y: 116.5}
+        - {x: 63, y: 118.5}
+    - name: boitata_desintegrando_36
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 377
+        width: 135
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 118.5}
+        - {x: -67.5, y: 98.5}
+        - {x: -67.5, y: 37.5}
+        - {x: -64.5, y: 36.5}
+        - {x: -59.5, y: 36.5}
+        - {x: -65.5, y: 36.5}
+        - {x: -67.5, y: 35.5}
+        - {x: -67.5, y: 18.5}
+        - {x: -66.5, y: 15.5}
+        - {x: -63.5, y: -26.5}
+        - {x: -28.5, y: -73.5}
+        - {x: -12.5, y: -118.5}
+        - {x: 67.5, y: -118.5}
+        - {x: 67.5, y: 113.5}
+        - {x: 45.5, y: 118.5}
+      - - {x: -52.5, y: -92.5}
+        - {x: -52.5, y: -109.5}
+        - {x: -51.5, y: -110.5}
+        - {x: -40.5, y: -110.5}
+        - {x: -40.5, y: -103.5}
+        - {x: -49.5, y: -92.5}
+    - name: boitata_desintegrando_38
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 391
+        width: 134
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 113.5}
+        - {x: -67, y: 31.5}
+        - {x: -63, y: 30.5}
+        - {x: -59, y: 30.5}
+        - {x: -65, y: 30.5}
+        - {x: -67, y: 28.5}
+        - {x: -67, y: 15.5}
+        - {x: -64, y: -0.5}
+        - {x: -28, y: -109.5}
+        - {x: -9, y: -113.5}
+        - {x: 58, y: -113.5}
+        - {x: 63, y: -111.5}
+        - {x: 67, y: -95.5}
+        - {x: 67, y: 111.5}
+        - {x: 61, y: 113.5}
+    - name: boitata_desintegrando_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 73
+        width: 135
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 84}
+        - {x: -67.5, y: 8}
+        - {x: -66.5, y: 5}
+        - {x: -63.5, y: 2}
+        - {x: -59.5, y: 2}
+        - {x: -66.5, y: 2}
+        - {x: -67.5, y: 1}
+        - {x: -67.5, y: -17}
+        - {x: -61.5, y: -31}
+        - {x: 4.5, y: -84}
+        - {x: 67.5, y: -84}
+        - {x: 67.5, y: 79}
+        - {x: 45.5, y: 84}
+    - name: boitata_desintegrando_55
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 67
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -81}
+        - {x: -19.5, y: -83}
+        - {x: -14.5, y: -87}
+        - {x: -5.5, y: -87}
+        - {x: -5.5, y: -85}
+        - {x: -9.5, y: -80}
+        - {x: -12.5, y: -79}
+        - {x: -18.5, y: -79}
+      - - {x: -55.5, y: 87}
+        - {x: -67.5, y: 76}
+        - {x: -67.5, y: -12}
+        - {x: 21.5, y: -87}
+        - {x: 51.5, y: -87}
+        - {x: 67.5, y: -45}
+        - {x: 67.5, y: 82}
+        - {x: 34.5, y: 87}
+      - - {x: 63.5, y: -80}
+        - {x: 61.5, y: -82}
+        - {x: 61.5, y: -87}
+        - {x: 67.5, y: -87}
+        - {x: 67.5, y: -82}
+        - {x: 65.5, y: -80}
+      - - {x: -64.5, y: -53}
+        - {x: -61.5, y: -52}
+        - {x: -61.5, y: -49}
+        - {x: -64.5, y: -48}
+        - {x: -66.5, y: -50}
+    - name: boitata_desintegrando_57
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 33
+        width: 155
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: 104}
+        - {x: -59.5, y: -50}
+        - {x: 2.5, y: -104}
+        - {x: 77.5, y: -104}
+        - {x: 77.5, y: 94}
+        - {x: 66.5, y: 104}
+      - - {x: -25.5, y: -71}
+        - {x: -25.5, y: -72}
+        - {x: -22.5, y: -75}
+        - {x: -19.5, y: -74}
+        - {x: -19.5, y: -71}
+        - {x: -21.5, y: -69}
+        - {x: -23.5, y: -69}
+      - - {x: -60.5, y: -51}
+        - {x: -61.5, y: -54}
+        - {x: -55.5, y: -60}
+        - {x: -52.5, y: -60}
+        - {x: -50.5, y: -58}
+        - {x: -50.5, y: -57}
+        - {x: -56.5, y: -51}
+      - - {x: -77.5, y: -41}
+        - {x: -77.5, y: -46}
+        - {x: -76.5, y: -47}
+        - {x: -68.5, y: -47}
+        - {x: -66.5, y: -45}
+        - {x: -67.5, y: -42}
+        - {x: -71.5, y: -41}
+      - - {x: -54.5, y: -28}
+        - {x: -56.5, y: -29}
+        - {x: -56.5, y: -33}
+        - {x: -55.5, y: -35}
+        - {x: -44.5, y: -42}
+        - {x: -41.5, y: -41}
+        - {x: -41.5, y: -36}
+        - {x: -49.5, y: -28}
+    - name: boitata_desintegrando_58
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 103
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -59}
+        - {x: -52, y: -67}
+        - {x: -49, y: -69}
+        - {x: -30, y: -69}
+        - {x: -30, y: -68}
+        - {x: -33, y: -64}
+        - {x: -41, y: -59}
+      - - {x: -60, y: 69}
+        - {x: -67, y: 59}
+        - {x: -67, y: -7}
+        - {x: -66, y: -10}
+        - {x: -63, y: -13}
+        - {x: -59, y: -13}
+        - {x: -66, y: -13}
+        - {x: -67, y: -14}
+        - {x: -67, y: -20}
+        - {x: -18, y: -69}
+        - {x: 63, y: -69}
+        - {x: 67, y: -42}
+        - {x: 67, y: 61}
+        - {x: 34, y: 69}
+    - name: boitata_desintegrando_60
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 89
+        width: 134
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -62}
+        - {x: -61, y: -62}
+        - {x: -61, y: -78}
+        - {x: -45, y: -78}
+        - {x: -45, y: -75}
+        - {x: -52, y: -64}
+      - - {x: -28, y: -65}
+        - {x: -30, y: -68}
+        - {x: -26, y: -74}
+        - {x: -23, y: -78}
+        - {x: -3, y: -78}
+        - {x: -3, y: -77}
+        - {x: -7, y: -72}
+        - {x: -20, y: -66}
+      - - {x: -67, y: 78}
+        - {x: -67, y: -14}
+        - {x: -20, y: -78}
+        - {x: 67, y: -78}
+        - {x: 67, y: 77}
+        - {x: 63, y: 78}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

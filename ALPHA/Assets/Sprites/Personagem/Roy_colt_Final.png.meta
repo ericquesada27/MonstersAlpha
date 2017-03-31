@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: a786c5e04c97ef24f9db212b6c1036f2
+timeCreated: 1486013127
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Roy_colt_Final_0
+    21300002: Roy_colt_Final_1
+    21300004: Roy_colt_Final_2
+    21300006: Roy_colt_Final_3
+    21300008: Roy_colt_Final_4
+    21300010: Roy_colt_Final_5
+    21300012: Roy_colt_Final_6
+    21300014: Roy_colt_Final_7
+    21300016: Roy_colt_Final_8
+    21300018: Roy_colt_Final_9
+    21300020: Roy_colt_Final_10
+    21300022: Roy_colt_Final_11
+    21300024: Roy_colt_Final_12
+    21300026: Roy_colt_Final_13
+    21300028: Roy_colt_Final_14
+    21300030: Roy_colt_Final_15
+    21300032: Roy_colt_Final_16
+    21300034: Roy_colt_Final_17
+    21300036: Roy_colt_Final_18
+    21300038: Roy_colt_Final_21
+    21300040: Roy_colt_Final_22
+    21300042: Roy_colt_Final_23
+    21300044: Roy_colt_Final_24
+    21300046: Roy_colt_Final_25
+    21300048: Roy_colt_Final_19
+    21300050: Roy_colt_Final_20
+    21300052: Roy_colt_Final_26
+    21300054: Roy_colt_Final_27
+    21300056: Roy_colt_Final_28
+    21300058: Roy_colt_Final_29
+    21300060: Roy_colt_Final_51
+    21300062: Roy_colt_Final_54
+    21300064: Roy_colt_Final_55
+    21300066: Roy_colt_Final_58
+    21300068: Roy_colt_Final_59
+    21300070: Roy_colt_Final_61
+    21300072: Roy_colt_Final_63
+    21300074: Roy_colt_Final_64
+    21300076: Roy_colt_Final_65
+    21300078: Roy_colt_Final_66
+    21300080: Roy_colt_Final_67
+    21300082: Roy_colt_Final_30
+    21300084: Roy_colt_Final_31
+    21300086: Roy_colt_Final_32
+    21300088: Roy_colt_Final_34
+    21300090: Roy_colt_Final_35
+    21300092: Roy_colt_Final_36
+    21300094: Roy_colt_Final_38
+    21300096: Roy_colt_Final_39
+    21300098: Roy_colt_Final_40
+    21300100: Roy_colt_Final_41
+    21300102: Roy_colt_Final_42
+    21300104: Roy_colt_Final_43
+    21300106: Roy_colt_Final_44
+    21300108: Roy_colt_Final_45
+    21300110: Roy_colt_Final_46
+    21300112: Roy_colt_Final_47
+    21300114: Roy_colt_Final_48
+    21300116: Roy_colt_Final_49
+    21300118: Roy_colt_Final_50
+    21300120: Roy_colt_Final_57
+    21300122: Roy_colt_Final_60
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roy_colt_Final_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4350
+        width: 198
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4359
+        width: 187
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4367
+        width: 193
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_3
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 4367
+        width: 189
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3866
+        width: 199
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3878
+        width: 187
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3886
+        width: 195
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_7
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 3890
+        width: 205
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3461
+        width: 233
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3463
+        width: 255
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_10
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3471
+        width: 254
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_11
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3477
+        width: 255
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_12
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3493
+        width: 258
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_13
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 3480
+        width: 216
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_14
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 3477
+        width: 216
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_15
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 3472
+        width: 221
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3074
+        width: 254
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3074
+        width: 255
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 3081
+        width: 255
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2657
+        width: 338
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2655
+        width: 360
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2671
+        width: 332
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_24
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2676
+        width: 335
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_25
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 2682
+        width: 345
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_27
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2673
+        width: 298
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_28
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2669
+        width: 322
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2265
+        width: 328
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2265
+        width: 333
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_31
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2269
+        width: 332
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_32
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2276
+        width: 340
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1804
+        width: 320
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1807
+        width: 293
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_36
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1810
+        width: 305
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_38
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1813
+        width: 191
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_39
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1824
+        width: 190
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_40
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1828
+        width: 192
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1350
+        width: 221
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1355
+        width: 216
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_43
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1358
+        width: 216
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_44
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1372
+        width: 257
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_45
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1355
+        width: 256
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_46
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1350
+        width: 253
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_47
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1341
+        width: 254
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_48
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1340
+        width: 232
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_49
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 959
+        width: 253
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_50
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 951
+        width: 253
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_51
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 951
+        width: 255
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 547
+        width: 322
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_55
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 551
+        width: 303
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_57
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 561
+        width: 339
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_58
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 555
+        width: 335
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_59
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 548
+        width: 332
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_60
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 532
+        width: 361
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_61
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 534
+        width: 337
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_63
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 153
+        width: 338
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_64
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 147
+        width: 332
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_65
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 144
+        width: 333
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_66
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 144
+        width: 329
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_19
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2237
+        width: 338
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_20
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 2235
+        width: 323
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_colt_Final_26
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 2231
+        width: 325
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: a7f9c5fc7f8625543a4a44838f8ac20c
+timeCreated: 1486450986
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Roy_glock_taurus_Inverso_0
+    21300002: Roy_glock_taurus_Inverso_1
+    21300004: Roy_glock_taurus_Inverso_2
+    21300006: Roy_glock_taurus_Inverso_3
+    21300008: Roy_glock_taurus_Inverso_4
+    21300010: Roy_glock_taurus_Inverso_5
+    21300012: Roy_glock_taurus_Inverso_6
+    21300014: Roy_glock_taurus_Inverso_7
+    21300016: Roy_glock_taurus_Inverso_8
+    21300018: Roy_glock_taurus_Inverso_9
+    21300020: Roy_glock_taurus_Inverso_10
+    21300022: Roy_glock_taurus_Inverso_11
+    21300024: Roy_glock_taurus_Inverso_12
+    21300026: Roy_glock_taurus_Inverso_13
+    21300028: Roy_glock_taurus_Inverso_14
+    21300030: Roy_glock_taurus_Inverso_16
+    21300032: Roy_glock_taurus_Inverso_18
+    21300034: Roy_glock_taurus_Inverso_19
+    21300036: Roy_glock_taurus_Inverso_20
+    21300038: Roy_glock_taurus_Inverso_23
+    21300040: Roy_glock_taurus_Inverso_24
+    21300042: Roy_glock_taurus_Inverso_25
+    21300044: Roy_glock_taurus_Inverso_26
+    21300046: Roy_glock_taurus_Inverso_28
+    21300048: Roy_glock_taurus_Inverso_30
+    21300050: Roy_glock_taurus_Inverso_33
+    21300052: Roy_glock_taurus_Inverso_34
+    21300054: Roy_glock_taurus_Inverso_35
+    21300056: Roy_glock_taurus_Inverso_36
+    21300058: Roy_glock_taurus_Inverso_37
+    21300060: Roy_glock_taurus_Inverso_38
+    21300062: Roy_glock_taurus_Inverso_39
+    21300064: Roy_glock_taurus_Inverso_40
+    21300066: Roy_glock_taurus_Inverso_41
+    21300068: Roy_glock_taurus_Inverso_42
+    21300070: Roy_glock_taurus_Inverso_43
+    21300072: Roy_glock_taurus_Inverso_44
+    21300074: Roy_glock_taurus_Inverso_45
+    21300076: Roy_glock_taurus_Inverso_46
+    21300078: Roy_glock_taurus_Inverso_47
+    21300080: Roy_glock_taurus_Inverso_49
+    21300082: Roy_glock_taurus_Inverso_51
+    21300084: Roy_glock_taurus_Inverso_52
+    21300086: Roy_glock_taurus_Inverso_53
+    21300088: Roy_glock_taurus_Inverso_54
+    21300090: Roy_glock_taurus_Inverso_56
+    21300092: Roy_glock_taurus_Inverso_58
+    21300094: Roy_glock_taurus_Inverso_60
+    21300096: Roy_glock_taurus_Inverso_61
+    21300098: Roy_glock_taurus_Inverso_62
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3060
+        width: 226
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3066
+        width: 221
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3069
+        width: 221
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_3
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3082
+        width: 264
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_4
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3066
+        width: 259
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_5
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 3061
+        width: 258
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3052
+        width: 258
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_7
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3051
+        width: 236
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_8
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2706
+        width: 258
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_9
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2699
+        width: 257
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_10
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2699
+        width: 257
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2253
+        width: 270
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2258
+        width: 280
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2262
+        width: 258
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2274
+        width: 300
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_16
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2258
+        width: 321
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_18
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2253
+        width: 320
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_19
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 2241
+        width: 317
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_20
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 2243
+        width: 295
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1857
+        width: 278
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1846
+        width: 253
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1842
+        width: 276
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_26
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1898
+        width: 296
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_28
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1891
+        width: 320
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_30
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1891
+        width: 319
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1325
+        width: 227
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1331
+        width: 222
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_35
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1334
+        width: 222
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_36
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1347
+        width: 264
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_37
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1331
+        width: 259
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_38
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1326
+        width: 258
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_39
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1317
+        width: 258
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_40
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1316
+        width: 236
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_41
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 971
+        width: 258
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_42
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 964
+        width: 258
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_43
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 964
+        width: 258
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 518
+        width: 283
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 523
+        width: 278
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_46
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 527
+        width: 273
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_47
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 539
+        width: 316
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_49
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 523
+        width: 318
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_51
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 518
+        width: 317
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_52
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 506
+        width: 315
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_53
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 508
+        width: 293
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_54
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 163
+        width: 311
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_56
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 156
+        width: 318
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_58
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 156
+        width: 316
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_60
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 62
+        width: 278
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 56
+        width: 253
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Roy_glock_taurus_Inverso_62
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 50
+        width: 275
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
