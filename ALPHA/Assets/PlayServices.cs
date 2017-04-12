@@ -21,7 +21,7 @@ public class PlayServices: MonoBehaviour
 	{
 		PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder ()
 			.EnableSavedGames ()
-			.RequireGooglePlus ()
+//			.RequireGooglePlus ()
 			.Build ();
 		PlayGamesPlatform.InitializeInstance (config);
 		PlayGamesPlatform.DebugLogEnabled = true;
