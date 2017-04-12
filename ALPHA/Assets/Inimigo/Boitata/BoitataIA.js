@@ -218,6 +218,7 @@ function waitmove1()
 	MovX = Vel;
    	yield WaitForSeconds(2);
    	Defeated = true;
+   	Perfil.LiberaGrecia(true);		
    	Destroy(gameObject);
 }
 

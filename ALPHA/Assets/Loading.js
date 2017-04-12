@@ -48,10 +48,10 @@ function Play()
 	Botao.SetActive(false);
 	Connect = true;
 	Conectando.SetActive(true);
-	//SceneManager.LoadScene ("MenuTeste");
-	//PlayMusicaMenu();
+	SceneManager.LoadScene ("MenuTeste");
+	PlayMusicaMenu();
 
-	AguardarConexao();
+	//AguardarConexao();
 }
 
 public function AguardarConexao()

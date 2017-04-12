@@ -38,6 +38,8 @@ public class Perfil
 	public static bool PlayGamesLogin;
 	public static bool ConexaoEstabelecida;
 	public static bool TesteConexao;
+	public static bool Nepal;
+	public static bool Grecia;
 	//public static string email  = PlayServices.EmailPlayServices;
 
 //VARIAVEIS POST
@@ -60,6 +62,11 @@ public class Perfil
 	public int municaocloq17 = MunicaoCloq17;
 	public int municaotouronegro = MunicaoTouroNegro;
 	public int municaokoltsucuri = MunicaoKoltSucuri; 
+
+	public static void LiberaGrecia(bool ok)
+	{
+		Grecia = ok;
+	}
 
 	//-----------------------(SHOP)----------------------------- RESPONSÁVEL POR REALIZAR A COMPRA DESDE QUE O JOGADOR TENHA DINHEIRO
 	public static bool Compra(int Compra)

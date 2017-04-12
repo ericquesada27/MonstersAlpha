@@ -27,7 +27,7 @@ public class PlayServices: MonoBehaviour
 		PlayGamesPlatform.DebugLogEnabled = true;
 		PlayGamesPlatform.Activate (); 
 
-		Social.localUser.Authenticate ((bool success) => { username = Social.localUser.userName; id = Social.localUser.id; });//{ username = "aaa"; id = "aaa"; });//{ username = Social.localUser.userName; id = Social.localUser.id; });
+		Social.localUser.Authenticate ((bool success) => { username = "aaa"; id = "aaa"; });//{ username = Social.localUser.userName; id = Social.localUser.id; });
 	}
 		
 

@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 62ec50c2c9b94278953b36303fb89db1
+guid: e8f792e0b2534d6fac5bd3aa3b844f1a
 labels:
 - gvh
 - gvh_teditor
-- gvh_v1.2.2.0
-timeCreated: 1480635667
-licenseType: Free
+- gvh_v1.2.14.0
+timeCreated: 1473798236
+licenseType: Pro
 PluginImporter:
   serializedVersion: 1
   iconMap: {}
@@ -17,7 +17,7 @@ PluginImporter:
       enabled: 0
       settings: {}
     Editor:
-      enabled: 1
+      enabled: 0
       settings:
         DefaultValueInitialized: true
     WindowsStoreApps:
