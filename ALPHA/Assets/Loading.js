@@ -93,4 +93,5 @@ public static function PlayMusicaMenu()
 public function Sair()
 {
 	Application.Quit();
+	//sair
 }
